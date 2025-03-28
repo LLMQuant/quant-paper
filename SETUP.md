@@ -7,7 +7,7 @@
 ### Installing UV
 
 > [!Note]
-> UV is a new Python packaging tool designed to be fast and reliable. If you don't have UV installed, you need to install it first.
+> UV is a new Python packaging tool that is designed to be fast and reliable. If you don't have UV installed, you need to install it first.
 
 ```bash
 # Install UV using pip
@@ -61,7 +61,7 @@ This configuration will make UV use the Tsinghua mirror by default, which can si
 
 ## Scripts
 
-Now, repo provide two scripts:
+Now, the repo provide two scripts:
 
 - `lint.sh` for linting the code.
 - `unittest.sh` for running the unit tests.
